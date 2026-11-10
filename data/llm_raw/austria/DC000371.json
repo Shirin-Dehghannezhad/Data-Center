@@ -1,0 +1,369 @@
+{
+ "content": [
+  {
+   "signature": "CAQSoQUKEAgTGAI4AUIIdGhpbmtpbmcSDIwkEzTLf16VHlMhFxoMAUMHpnx6g3nUXvXxIjDSCKXfMpRsm13dJAwAJ8bN9R+9ko8L+KTOzJ00+dgYT5nddKGKCgEOWso1yqfQHcAqvgSO7eaWEGgSaxxuwslOwZ7J/vJ0b2VuEXBEUhdiz+b39+3IGEZ4b3GKQJH+5Wokp8eUGY+6x2Ay1E21W53n+7mYP3gbbx5Q6JxqWAi0LTY6NdtMuniVn1Sy6kRBbhMFUMgJEe7BLD/DIkSfXtiwTnvFTatHB6copodCxrIoT+HD9u7jdm6osh7sAyxyelSdqXj5A3A5T26o7ox1IsjvZxxehL9O9PwcxUSpHw6F37xbKU5DvqOVqfoBb2uc8wXc9bIPMn8ibCiTu99b3ZtCpNy4cZMIvf4wr6DcdksKjb8RsHOo2S4TXzUU8U/ODuMNDP7V/T1I+eXjmYF7/reuABwgaDG+xJJJykW0ZfAC3rUOsrYwKexLcuGsrsmmer7A7QZFOmWf9t8qbgh1QYWo+f7BcTK/XPq2CRD3tRq2eY8DmImqbHKYaj/QLoC13yy6tBlFKv/cI3F2Z+IUmjaxj7XGYNylhrA78scAcmM19QnyHHNqHV0iapp4TG0B+6+9nm4B01CgbJ5xIDCNFgwNhKTmEkMNyJ3Eu7z7NCWf+4wZveVmI+NrYkLO5Pw/+JLFVpN9c4iQzUSK4TBBOBhnrar0+aFZm4F6BIG7eFnCXgEV+tvywY19C9fClcIV2yd7uoFwehHKA+6So5DINRxTACIgbjeXI5BNtFJdJT6Cgsnz9u+jby/n2lzW3HZGe4o6ZtXl2GOfUCaYKx6vGnsYF02WMGa+nvczfbFAaHRveUNLF/c5ViI8sGarjEnlZ0RlGAE=",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_014S7MBZNw1FiZLqiWSpy6qL",
+   "caller": null,
+   "input": {
+    "query": "Arelion Wien Sud Rechenzentrum Talpagasse"
+   },
+   "name": "web_search",
+   "type": "server_tool_use"
+  },
+  {
+   "id": "srvtoolu_016gzhQNhhL2Q3a4rWPxjym2",
+   "caller": null,
+   "input": {
+    "query": "Arelion Vienna Sud data center opened square meters"
+   },
+   "name": "web_search",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "type": "direct"
+   },
+   "content": [
+    {
+     "encrypted_content": "EoINCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDPB8rPW99/US9mivYRoMpmIahTWRkvG4833PIjDtO/aMWWgfM+TAwyK5RL0GQraTCZshCYCH13e2jg9FqxgUphlFmVF7hkslfC4uDhYqhQyRBHKKCYpBtoH7EN18IfTY6zeTQTVGTtUH14kHJZoIxhHsA6Ko2Ab+nqOMBUvBN70BmrQKe+nEHgyH7RD5NPV36KE5SrCoLEokrOONFBApwl0XZIW71CbZ8BDhwe2GVO9wqwwt/6l0OyIU08TWjvtW6u3tY3Hrqacwp9yaNzXnG/gOxscrqFAyiCBeaXnrt4YTNufu1FbwB1pBqsk1QrqavdvQRyJjuXJ8If1OQCyfmWqcRIoElU96QNn9MXPqJxHcIK9Upl588c1bCbSUxcwAz29tZeC7INdxnaP1dfnLsJx187rwk9brQSMx7mpmscOqQVyGF5qDy9x48Cmqiy/09bAFAJrxl+6cIXIADTyzyhcJ5IvjhIHptV1tvaZz5tnUeqKXSZx0PUKhCfx89Db9euWMaLL+y2jWZXkUS3jAPtYytCqSTlVhMOAADYNvkonpCQ5/ZDv6Lgadbhcb+J6hRlnk0aSHz2EggsxoLz/zuqqjymcf57w8LIbgJarFNOeVtKU0sLHWqUaqgmbcSljNbIiczgEsCWtKIL6oiZFkYhKCXERMu1QxrvkSzHFt9syVw+PLMPSmLYy1M/ONbqSgL+F9O08/JPrQY1dUVGrSFo8OQ5Na61jeAbW9ZhEjMDiIdgGDiLgnGE6B7DDpluflQnzs4UfsM9cnWDJyslifrjm0alZzF5o/vscAZJPCEgLRL0Jq2NyIjRLYcTZAXfIzGNgNlFM2P4Ka85NgR1QOZx42zKWz2uCMBv5oOGkHSlSvhVe8ce+Go+swjzkeQi6ysFSO/athPzj8f2H9Scr++U2VbDLIx3S46PRHYlcIHm/5cAymw4moeZ3kXe7aZQYlMvmmtX/ShdqBkVny3OZX6aXGPk1c7NWjWUb8J/TKk0w9ONUqNNa1zwRPfFqY2kLCxF+YdLswYYGAMhHDNbZGXMg1YBz+zVu6Q9Cl+TsA4suN3G7A9jKZe9l4YWFXV9AlYurTAp5HZuK8qk5y/VIE4GyZ4i0D/na3nohffrgm73U9MfN0RAmXrjE9OsZutG7JnbgKZfvhJ/CeF88UoskqiMUABjFUSaIY9AgbHesY5MJgoujEN62WnW/yiC2k1TYv6aOWAGiJ/NvRb9YsHgxwXUzBm3giMU6X2Oh6dRwdlK0Ui1WNBz8wLyPyyzIM8nq8t/wUi9okXMvXL4kQ/jEmFcifNxQXvfjbzAzkK81/hf8NnZZQ0UuVzWasqkGaBE/lnSVHGKGHHluptTuqc7qfuJGtQYBc4+bqPOwFTZgjVyP/Br6Zs188PRLEaAChNlcmPpwRKX9r8Tnaogv/0pInfKS3Qu7mNhS6rRGeIT59uZw6I3/eq+PffmOfSUpV/jQ6fyJVUeK/IIoFqoezsG21m5idNuHyWuOJMyYZUZ5BZ8HA+3n9ZlWyu+Cot73G8/vmg7A2VnMvl4f8Kv1zLE+n5Ea+k9hgJt8UyWH8iOlHSMS63hplJi1xVB+Vh/k9ZwIrQ83509CBpyH/lUXgHZx/i44FC5u0tgwDSpkFftv912WkF04iNoEQogZTt8i4IqmBO08hYmELKkQQ++YAmD7lXnxDtZRLds07KqV00uBTaw5hGbAZFue1S4yHYVTpCOqBcSL3ri7LzyI5yALi4bE8rtm24+Itydo7jqHgYsHSzfnoo1ie0cxQQ+s/csukY4/lxRAIyEV348LmFmrQO+vrnucvChY5J5ehKUBCcOhtIw10g8od37P8lYR0rmJnrbHjys8QThrAgH+3ktP8jlmPFAqmQ5s2bCnKUNi5yPjVPhPS6xP7hetj4kQSDLvDn/EL+d7js++kSSy0TUw0uW3I80HA8LidRU4FwhjxRMUKbO0ZaXT+s2DE32iRO8I0VHJnodHTwwFnhWbznAQNaDGqm5KmdvxqmV8QWnYP/nz+VLXVsK7GQfp9ZxLMg0qTelefpWBZ14Y02rzmujFlvrKne6JhdcpFvMjgPs90wjrGiXPWhqtOMGcHnNpa6IRbIck1qlHoHADBHq7xPaiUdXPdCh13MjlKBKMttQhQFEExuoGbH8tm4RgD",
+     "page_age": null,
+     "title": "TeliaSonera WIEN Data Center in Vienna",
+     "type": "web_search_result",
+     "url": "https://www.datacentermap.com/austria/vienna/telia-vienna/"
+    },
+    {
+     "encrypted_content": "EsoFCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDBUt7an0iIn/hJXAtBoMBu9ZLZsLOzpqA6xoIjD2InzxW94DziP94aYfpqaTFKTZB78LpqMOJK3TQBA8Yn0wgUOGinC/mRCwDJZ49EAqzQQqKUeN/dtx3BO0PC7nzHWsP0b1ORZHIbda2l357fnr/qFbzETSAW9W3oIHrVJFnFpuC5+oTgSysCpKdiquON/t2AZ80uU3I/oxBl27fSwFN8EX9wBkPQL9RVgUYC2xCMl6R79pMYWUyigwDEWM/l8wfQmfffPCUuxjEoOs6q4bKK+fh2Bcm4uJfaWmlO3DFKC7AjySbRUvIUG3QbvtwxmGOyW9PP15ggCYH6rLEtmtP2uRm7mLal0XRpVgqghWr3+GOW5OnDVv5sNqPymqa3ueQN0oJeKgVmkFU/XCwxIaFsNTqE4b0iAsL6mNMwE1NGKG5biIDYtEofkdo1+h33oZLjE+qadfsSMW02gedjoYG4PZr+ipUPrHfoGxtbyvPVw1VZkBY9WIqEm5lHw0aV+ahLyEG8+wvSe77UbSErIyCEmTwJ3ZyZIgDN+ZhdE78S8RmSd600pYZmWodoPbLOdDdK/vujxVlfTFJpp94MiD77NdBz+O7W9F3YbBVGL57RHItBqJhAv8+QaKPnLiGueAlzWGvRdMjJIxUr5vtErZtAPDNsR/TOwRhTMnu8pgpASogFi0ajl0FDf152XnBqrznyPmNIXiLit8X3tmmHJiH9dsIqy98boe7kABDTsw0uaPEgXzhlqrxON48f9x5nLGgFw2wMaDKn1XH5Fn5WkWHMWsJFMhOeRu7LUFTY5802j/vS5wQy/aGjGKzvQY1hvFfV2Nz5h/rUSV7f5F2dyf4DuuAEoCzqlMHRucNp1Lvwt5w2Ou7xIL4HL6GrCWGAM=",
+     "page_age": "2040 days ago",
+     "title": "Vienna Data Centers - 24 Facilities from 15 Operators",
+     "type": "web_search_result",
+     "url": "https://www.datacentermap.com/austria/vienna/"
+    },
+    {
+     "encrypted_content": "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",
+     "page_age": null,
+     "title": "Data Centers in Vienna, Austria - Inflect",
+     "type": "web_search_result",
+     "url": "https://inflect.com/datacenters/emea/austria/vienna"
+    },
+    {
+     "encrypted_content": "EpIDCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDCGi2OaprcS6SZiTRBoMn45df6nhUJ/dZFoTIjD46JVj0g4Mfffl8jvYZiWYbljeQatOsELPkxaJY/6qKnY+ruO0SsCMietmkUs6mc8qlQK5NN1kZImRbIheVnAX36p/V1EFz8nrciKSd26hWYH5d+xCY90z72+AxGYxRjkZipsvIqzho7wyEIHw9uE72XcQCJQTJSbwIb1GmXGU9GG3z+5mC0Y9zD4KtBxSQnabRLbALb9N6h9srW/u5xbi5UlR067LVwzc5rp3yb6lkB9N6tENtTgMPDA2gZB3DP4AvwjHPfo3MpAP/V+KOu7o0MBSED3kTA0U0VwyFNhyVJQf/WexKrrYUWLHFBE+03HQAG0FlvecsBWUR9LmI61Z5gsY6f5hAqE0/WFHP6hoqkBj7Z0hl2cRCpwrgTOvBWHmz90LSnSN4fi5ZNluejprfjiRyXkOlyOjaZlYRVnHjqYx7hWiC7x4GAM=",
+     "page_age": null,
+     "title": "TeliaSonera WIEN - Specs",
+     "type": "web_search_result",
+     "url": "https://www.datacentermap.com/austria/vienna/telia-vienna/specs/"
+    },
+    {
+     "encrypted_content": "EqUDCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDGXP0d7Cliw7GWRdNhoM1uHrFcICdfuH6aacIjBZWR6BDzpk9MTtHbwG6LieC8AoGdEFFFXkK6rrpsct8tn8tyY/uMfoiA/GW1Xdv7gqqAKz0pwdGg7y719Vdq56hzd9wZwpw+Mb5YkYcTQ2UIs+41kxfEq6uFyG+nVLSPkpenNSK24T+xunWd7oZFJ/WCl/2iuEwx1wVg+Nx7z6hpF0+s+twmQu6x2NQx7D3HhlXM6Hnv+krkbS0VCfoSHCrXQ48jnB0be1IyFStEROrtcYvO/kV48VN68mDtSmwZGi2Qk9fH0S+E43awYOx3kJFYw20/DOy2tGru1MmgeHyGbYo/UZ6gCAV88rfmnV9AC7gqSfXlody87szwFAF2hFhZy2CD+bXTVBOKZdfYpZy/3b0lPEoijB3pGoZ/PXQxXdTj1w2Mjslv9gSgPeVsAl1yznLytFDZkS0l3ud8rZj/P1RrO2p3hszt4XwMnppUxWM2F0quQx3LVFehgD",
+     "page_age": null,
+     "title": "next layer gmbh - Network Profile",
+     "type": "web_search_result",
+     "url": "https://www.datacentermap.com/network/next-layer-gmbh/"
+    },
+    {
+     "encrypted_content": "EsAGCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDO1RIbs9mK+a4DtmNhoMX8KDp31pvYHAl3SDIjAZ7hhg9bid84wPLAWpfr3u6mduH13QYr2Lteaay02+au9TZ2qBWhUoiFlTKRC9/B8qwwVmSSK4a6CInjLER99hnIf1D1UUMVjuXlUZQjuUsQQQVcn/0UtgLR2VKYmFa1uVcund2imUk87TAWmiucx+8dd1wJ+d3owOQjY/V0dzZVfleWDz+EVy+wKHHzj7A2YiaV2y+mspV8a6WrozSpmOraLnUOFHWFtd9ppoSu919fZClRBHS+oZMU6C9KbGByKA4hIrGSa990JcDNXEp3VMdfw4fDufOLERtoYiZaqeOL0aivsjeCWvDe6vqUmQKuEi3/h3Uj9etKxzpwbSw7a1U09XzutpZCnqRSu+BVJh6/dP2daFFLSkScFkM/1gVU3+vwIefcAkugfcazD2X/Tni3FQSZXwk6UsRJjxMIbMTbexJ46K4CAHSq/rb1xm6LoBAzLoYFh9i9lnZ/5AOJ9/JuPx6kujSkiZNk35Kr2jt79nOfJG0pkI1mMijbSJIjae2HNJ1lslm3ESNorgvTlmfLLB4N5E3CbIyf2t1KI9lxJdrOcnxexKOaISmKbVDsmHPf9Som9bRcuhZVY3+JukCEjor4ZZK6mFsDLdReeKCq63x7eEZ/ZJkCQWKwkkEpmOKr0Zqge+rEEeoKDIc/leuUWw6oYk/hYEKydiBPiAPSgwCnyX4QejUsnzk0I4Go6dxuEYaJQCuwo/ra2PY4EQ6zwiXO06l/WQVVvpd87V5yHcXhoeo1TkiAZCC5SCW5nDwhwNymrd31v0Ukf35P5Nu4uoiOdHd9aTOSHrbc94b/C4YiqbmmnMgQvzGh8MwJZ3JxLmALIPEeJs69lTHbfCVrwIMFsDIdOd6LnVQpEtKV1If07fAsLNgRIvrJ5MlsRatamYqZE7Q/nFp3o6F12IAAIYnaep1jxzFTJ+E9lDNNoPQMhRGseE4apHG/7BDKO98rqTwsIbiXpzilFcaHtRDhOP/TpBUGVBPHQPDxjnJfiCh+IesRgD",
+     "page_age": "1479 days ago",
+     "title": "Arelion - PeeringDB",
+     "type": "web_search_result",
+     "url": "https://www.peeringdb.com/org/28858"
+    },
+    {
+     "encrypted_content": "EoEDCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDFGAzQ2RPHC2PBTX5hoMT3RYmiaMeTn/H/uHIjA0wRU1xAYPiAp+q7NHJTXh6NtrmIPjtBTowfKjcG069y45CR78P+BGa4em6NZoK7kqhAK6/TrlThpphGNeyU4klO+UkCB3Cf6mZx6W6Hr2KTFMQNMGAqMg2I0bvl7GSMZKV0OAmzq+ac/ieACQ+KpKw7h+/8yAxRmcvTjxwApv6NSA+oIoCNuKcYKwSyJIN0ndpjmnGtCYrS+FCjXdLcD9VpilVrUvBWbkz2OjB/j/c0dcpk7kZXQg7sZwyXtTH91lPslzkaBDe6VLon77zlz+Nfzd+dz+uurvMVRDFwbu1NvtnoT0vafpDJWXkoCtzeB81aK98l2WnPpsE65Brmn1FSA9ks9TU62TTZVyHosYrje2qK1YPvKP5pbVZaaGLzBSgi3/UBEk59yag2vBZ8M+d2iLzCmz/RgD",
+     "page_age": null,
+     "title": "Vienna Data Centres — Elite Hands",
+     "type": "web_search_result",
+     "url": "https://elitehands.io/locations/at/vienna/"
+    },
+    {
+     "encrypted_content": "EoUECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDKdkutKntbhrIO/fDhoMkDHnohmAAU38Ejf3IjC+lclATL8nKT7h0zmitcGn6sVxSTWLI7cDsBNhaMiAE88I4e+9Q4eRcSZRR2xD21IqiAPLT/6zbKcLvqIGIonS37U8LFviUJI6y6IHf0BjOr4H9USYjaua/9jLGTqXpsoUR9nUv7gU7i87v/JPW1K6lhRk7rORM0e6PUbXneJjPaXRQdKXq90rK1IkZV6A/xjxpNsELXODj48L+FSNLF+pYAnlK5zILCzjsewSs8BfeBFbGyoMaxkUNWOCTUjyqeXGO/m+uLLGPRxUHa+H5iL/xxwM24j+J+MqNNSP8FrOg/lbVZ7M091LQdQsazoQ3Pn1PrW0Lys4pCXQRQsFq9NhHQe8dGL5a1mBSqnE1L1aAsFDOJw+XJm+x8K1UrIiMgq287v4k43w8DtBAUJ6XbGQw0OHO3ErVZ5Sp3o3A9yj72OvRJRDU9667vGqSPWFwfh+BKlAdnLNj6JtLwqlgWiOpCFbFo3GJg5jcD6W4hxeu8PY1bXtzAhEFEjZ8lZJFWM1q/cLfzsl1Jcrq28eDS/SgCfmoivfR0Ej07Vq1aZDvPqk2vRVunYHzEQ+4qOj1PzIw1ThbqFyEyQ/LBgD",
+     "page_age": null,
+     "title": "EXA Edge DC Vienna Data Center",
+     "type": "web_search_result",
+     "url": "https://www.datacentermap.com/austria/vienna/exa-edge-dc-vienna/"
+    },
+    {
+     "encrypted_content": "EswFCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDCtK7bAEwgl5NhadPhoMYG4hK3Aj7g46Eok7IjAesrvq9PxdSSGtnNUzLQ8qzhVZf5A8Dkl+qJ0+i2WPdH8KyLu9zeiHBKWUWi35izAqzwTw428WfHNiCtJqm453DuHDBeHuA91vna+caSysqYU7fJQE8uCpkxj4lpiEyhrDFp21JyhLvRUoIaca/+AslZGDYg/ifm5PTOcsUbeTWd80UQeqgzcVh2BIBR6ACV4xxKFXtN65WfEMb7SG0QouSq7fZ+wv/v8ddOkYjrQb3CLBs+HZjs7XOguuVD86OeEmCgQ4fW7mIqq8VdiEQxTIawe0yvq36uO4SVRICU1Pi3i3MniK2844u+bsQGDuM9iwgNnAuezePWdKqRiiCLUPEqkgb9Ii5RNDLfOZjqvrkqqobHq5oOSCifVZHrqN1OSz6rJMzV112AA9Kn83Gvg0jyUO2zalPoDVG3OKpdoOFF65DHopzVWovMo0EKiHTz4X2YWzaLOWoisrqafMfo6EjP7OhgBZCrrmnbHgwhuIIcfCGKgJyw7F1Yw99gZfs1vl765TbGkOgxYpPce7+RYuZErvjuXes/0rx01r9nhi44XKgfSL8mCLz0aztBM2VeOyNln4UUj4IC6+gRwqcoJAABgYJuYMyF7nvi88lQDJG8+H0kjkwyaZvyAIU7aipUalfjvZaIMY+mHzCIcOU3TEedZvZYzz6/JyIESWYuGUMHwx2X6Qj3fEgW4Er2/RFyrFp/L/zAMO/CaGUmUnMS3W3LB20su0HXnhLvMdgJQa5CQVRrwvmYO/G4hhIkqnWot3levSPQ/gLPkPRJNDzwd4xcLamYlSnVPGZT3j+CoeyuOMsrxaU/+vC7kToGw4j4YxA5LPyweD5sM6uMxOY9nKDbwYAw==",
+     "page_age": "1289 days ago",
+     "title": "TeliaSonera Austria - Data Center Platform",
+     "type": "web_search_result",
+     "url": "https://datacenterplatform.com/data-centers/telia-company/teliasonera-austria/"
+    }
+   ],
+   "tool_use_id": "srvtoolu_014S7MBZNw1FiZLqiWSpy6qL",
+   "type": "web_search_tool_result"
+  },
+  {
+   "caller": {
+    "type": "direct"
+   },
+   "content": [
+    {
+     "encrypted_content": "EvwECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDNHVkN6WzmBQlbWzsRoMWe5XeQMXqjDAaHxFIjDo9kt0D5/RrLnpNqZOtVhYtR1eixAS5zC2OCAa0xE3MkzgNG4mApdmG31aM19mUZgq/wO87X5waUG85/9NBqA+M/JXrhdQOJLThA7cDbXZ7ybxZZPkssTsc6NEAz3GF5FwUXEYiUIzcUggI6ynWbHsdAjq3LsjNWTo83G2fESdP5dlBeeZNti/2n/J82cfJA3x62DKqA/Df+N2PVzjYW+QvTJBxu4bdV2MoAAQcHFZwu3ATFWe9/pgw7Dyt8QEL8PUARLclMrymSQP3EkTmjfWg92oerTwF3XameH1MdxHfkdV4q9poHJ+v4WmokaKRAZHLK0U2yJcXjre66a+fSH7tT6OGqpTobXOhdplqGE5BwwQlHa37fmLRFPv1ljAlQ2BOFWv8Lt4QVjVBncZxiQl2MD9Pp7yDTLO6tj/HQg/Qw0lvKDqOc985llP2pQWLQgARPbnQZpwWyXEwn6pStb30DB/N/2u46kMLkVsPtKQV8l51OPFxgOofbUgctzrrDzxwTOpZ/JSjIPXwI4kn1UhLaGH+gTm0GixIdVoXzjoZpEX7lp3YPh/lGWpwdk/In0abkKbE2aSOAL7vvRZW0SuxWErmutU+diw/of4EBKNiXhtozxwvUTExaF2D+HJtk9pEkIs4Ox/aqdwk8GASRQZYEQAwQCb8hC5V+R/xMGvt4LjSSPWx1cqf9kKXPx/p1NkT6goHZThHr9LifgmCkBhVSPY/KtkwokNBYIckfvULdu5GAM=",
+     "page_age": "352 days ago",
+     "title": "Digital Realty Interxion VIE2 Data Center, Vienna, Austria",
+     "type": "web_search_result",
+     "url": "https://marketplace.upstack.com/data-centers/interxion-a-digital-realty-company-data-center-vie2"
+    },
+    {
+     "encrypted_content": "EpkGCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDKs62xD09XHnXAgDoRoMWbsHLmLBXfj1+FhAIjCRetfvx99TN57bRiNnXsd64KCNdAi+aTEbBgLoYc9omuvZtWLDvg6jNZrQZy82lOoqnAUMUwrMhKGu52i50ErLanihuYH7OjeUc9E+jDZolpQHTsHMn9cgPq7U/xEpKWnSSswZx9DjLiIY7JFdE9RWXsO0vAizxWTJtCm18wS0IyeJNKF76tXrI4MoffnEtqiJ1ijEDAo4F5PfVPAz8uAGfXi7tta3+MeAs9CXNeyVL0/fRjves76zyzmnZMWkJetxbTsibP/XKmJnHF7bT3NbZxht3p53nfQKsDAhWzgY0dX6zMhHKKnYjAX69J3rw4zfjlN7Xq2d/8wn/j7aA1tvfw/rN7PAewMcQpBEjkvR3NVUXb/qYqtIgiFkMNPLj/xhPzdAB4u/LET+HQtHzY1zjZ7WXS6QyT+NZP00eWhNg8WOuZQZaooZkoxkG0V16LlRv2hDuE8lzRnbBZ9sd8dhY4sjJ1CjyWm1SCaDWE9xg3aeo/X48s0aeTJTJsumP/dtJGLkTVeCuERyRKc3o6WUlk/Goy5vAGLur60Z5WEdSEJag/4E64AwdAw2jakkWhGcDwjTlSmANAFR7yqll+AzA5+x2wWNkWN1Rdd06otFZC6zPMJHKsY1HG3v3j15tID60ANVbnZw2hkbxiTT13DO3x9CMbu2NC7SExvmwCVKtjgpK+vjbFTbREhillSpMDhupGADiUrLWww6tmM2IOZHdTOKOITfWjNybQ95lHa8IoWVejdGt1usskglqny4g/EXEVFbmDNqXOKOqnkScLiMAg92crdShK09L5r7Mak4/wytOf6HurD+TpYnT74ofMtxH/rqHI3ZKYG0aKrUT5JGdg4h4m6X2gmp2PoPt0k30SfcwgQVYTjvKt2CgjFPtsqGVj8wRvG19W2kn9FJt1fRntb/hT69fyvQZAhNK/VD8tgyYG6hLiEecT+4EMmv6RgD",
+     "page_age": "28 days ago",
+     "title": "A1 Telekom and IBM open Austrian data center in Floridsdorf - DCD",
+     "type": "web_search_result",
+     "url": "https://www.datacenterdynamics.com/en/news/a1-telekom-and-ibm-open-austrian-data-center-floridsdorf/"
+    },
+    {
+     "encrypted_content": "EvsLCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDP6K80qgKTAyJY2DNxoMrUjIFEZ/cnjMuEtUIjBEgwZXWq6osdruj7PfWhl+FiAK2+nc9ZxL6KlSs6I+lkRQw8sHcipkslS3yZVCLPoq/gq/Kc2s1AcInVTyB1dJbAz2zg3XL8HFHD6gRYHH7HF/e4U7g10dsJBluNLlO+64hQ3GLDg4b9RZyN7zRfvPw3LPHmsyfB+9whWa+P57OXG7TTpTnchA4fcQD9KKRA2dDwfPmtydsEaHEkVBqECwrg5sKGe4LyUr0Q7ECeS9TIqlVIPJs2O1ZZoxWD1QdWwJUlhuK/1nkTLjHuH0ZYqfh8Y7N81eNyjBAkNS/whmCaRa2Z5Gye33Xtzs23QfD9znWjZ59q65XHBheaqqLNbFOiJQTwzwdcHptBxZ1rqzH6knrAVB2gjyOXRIaTiCyxqG9J58f8ZxaYXVTM762DTbijDC5XgkVSwJZPUeBS7ODn2I01mrOC468Nxo2tPZwm4B1oSx5EyYOdp4XCE82VYCk3SvbA5PVKUtCshsn/tCCBEKRAfMVXPsVesgMhJF1571iGMXS/f7GKjbsRoWT+FMN+5NSHJ3qNC+akfcXrIzi0CHlf435dIVJRjIA6v1Auz6/nSB09BLFoLLsCWolrXa/roixOxWLXxVtv57D+AnNITUCYg/hKoEtocX8WZqGqI6CyFAFhMAvrjPvmgAeRisLI3Ff2sKNy01jhKMIhZKz8frz5RxiHVO4z3FPsfciL2HAY4rOxyxP+iM3cGbxOXn6XjIoWcwh5Ch6sa1Rkc8qiHxUhKO7MXGJlPw0uyeVekinU63snej3Vp6MuCoFa40Gsr9f+CUClhe3xqb/6Fn38c6KUuHLR04S6xzOe61wtPyxuTPbhyALUS1YBrC3RhjISVIKn4zOTLCpoLeUycjF+4bO2B+Z1GIKUoAJ6Tm5G4dEg3qcREDNiXg6/jqapZdjY7aKZ8vU+M+FRR0iyKimZ1ee8QqxYQeFmlupWOZ7X8CbomiD4h69hC0aztYY2dXifqhHTNtr0gYUvxt2xDjm23WpHwiPS0SCwKlAbnuFchaojhRKnjGue6KiI9vqFJqI7OQ+HeKVQgwnDarf859l1fmEtSzUP9Xl/FEdTPbm3T0nKS25zXOw4ju9Wa5qYLorWNa26l9iQGZddJIoBgjc31s3ELqLBjx2tyIEP1TrwWyoJ5JBQC9BLuz3k6J8pjOEKkzunc0OhwnbukgJuk7LhIdOxq8NMXBkzuRrivwtov5FTdrNbRGT51RWVW5hJ15T5ZQwriHRylRgy1H800IER4yvYljguqTngZwjRPspnOkI7X8N5ziKaQjkvb1EqqOFc9cd7hcvAPLQQ1rJePpVohWvl/rEXeGaGkUSNFASq2qsAfETKJuUhWFfOy5vTxZZuvBmrbe8e7/+ou8+eAQnxV/Xg54828wK686JXVM5+l84hYkQJEcyG+qS9JCmOayGmIQWGD/8gS88FoB0gHzfsCYtzE8HJJGLc2m9V3VjBjXEqKoWwFikFrRZDEE4GAD16kW7sku13o0L7DayZJXL+UAraHTBWzTf/IsKeRRDrZlXFJuwZpGVmmNxauPin7IrS0XhDLkzPZsqj+fCU4/38/Om/taG6lv9yPXPFhAjhgGirjro/me9RIsdusAfpEUnfDZ4P5DC3361kY7SblGs46ASDnWvNuZuc6HaI1d416hO2Or+H30WJpV2xmZP5K91+KfF4KKB8Zbx22vFazy0gDvC1vwn2I0A/54EaV/mCv3I/FiG9pDN1wA79LMGWQegnbbdme3zeUhzAR4nkBc7Wyt1bnfeBxb8ys+gvMPgeGJgVLXchDuhfkwhOHRti4FsQi/txvwa0GTdLjxJiHniTVlNSoR3nJIlHbrbjJKinGUt2VMimKXsKXj4bJmID4aJ+At6p3KncHdXaVHUzqmX/26aAutlAVO5KDZVq46rGBnS91s1YC4TVrar72tdgEu5hgD",
+     "page_age": "29 days ago",
+     "title": "NTT breaks ground on Vienna data center expansion - DCD",
+     "type": "web_search_result",
+     "url": "https://www.datacenterdynamics.com/en/news/ntt-breaks-ground-on-vienna-data-center-expansion/"
+    },
+    {
+     "encrypted_content": "EpUFCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDFwUKY6Hofi877xn6BoMQL5UlknV986zN96kIjBNQj7E0sEdUX+yKKsSuNtaJz9NtKxqDkYByE/nj4ojJH8nekYjp39DDeXjPRG8gqMqmAQTjlAkrX7MMXEBQHNks46BDyulSd/hhG+7Afb/enzQXKv3qQJgP5O7fPDSMXcUq8HixJazok5fk0aMjdWGBa0OwoAXjmeh8UgzVtTIh02dp7zWYsHsgdOFbAp/H9NcDE5bGSibsG0Y8bdu3PanT86XsgE7xxQB9fH1BXAD9WQF4auAbXr56z5AS2HqmiPw1GioaJ6AQC5NoWlzr6QWHQjc61io4b1dUwd2B5bt1H/GguR+hlVY1k83M5VwDkFIUFGraYBh2W+CzN1WLTcZP8+JiDWaFbF44aWAOqXO6D9kbQ4jqUPRMw9N3FC0Flyno2dAhzZpGlulcaJY/k8L3cwTuoiv8+kHbQi4HzYPDPGi9nm3/PvGYZNkhTkcdIcFghhsh5y245Kk4B6IENGO5qI6P1uI6666KN3f/zoG9IlPe0jw2Akq8DPbRmVcHKceF2X0cmwBto6h7h7xb/v6O6CoDZg5Gt1QSzedTQAScJ4YeCz+9wCcnCoadfHiWuSAy7cjllEuL60uhji2YR30fNtDRFDGEvjNx529IaQx25zFcX8wYdGxLb+DQdn4cWsrR+wO5ZGM9CXnzNKtMEzfsuCeTKe8hdzztgfW/mOluduLZW7nquG0lWhzMMQjWIaUdEswO6V+Oy1YkVTAxZbVxTUejxy+VOeIJtsFIXpigKvq9fbb35KhFehx1UYvcVj4Tv+//rfeP7JGSRgD",
+     "page_age": "2040 days ago",
+     "title": "Vienna Data Centers - 24 Facilities from 15 Operators",
+     "type": "web_search_result",
+     "url": "https://www.datacentermap.com/austria/vienna/"
+    },
+    {
+     "encrypted_content": "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",
+     "page_age": null,
+     "title": "Shopping City S%C3%BCd",
+     "type": "web_search_result",
+     "url": "https://en.wikipedia.org/wiki/Shopping_City_S%C3%BCd"
+    },
+    {
+     "encrypted_content": "EswHCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDDsdXa/Sl2r3Mdox7xoMHCH8O2Kl9nxcXPtmIjDESKjoaE+HK3opg57g66I6ROvvWlCWQQpcyz9HlmYq3NB0mzTSNnmbcq8TeWsErG0qzwZLpTRdyuS4AIvLkpy3sG4bne8hLNMG6cR0ZiSGQLtcBLAfXwPpRcK2IsySjM+h2Cq5jKjZTKAVZjhyu7P65D3Vu2mc9J0hXKEMKkZYUqpWE/lew+pvVRaVbKV54Dh4O6zR1YZMP5wf1F80QrXHNP3UTU+/scz1zk/Zp+1hi+EDwqimjNTd4rL0gX6/MKdhkUP0jrqj7j+yrad1nO2iedUM39ERAQFnpI2NdQSpoO/FSBDbhOly3n2ui9PxQ1pd9x00fR83f5vabbwG+rQ+1i2ihxXowJl+ifyd/aatk9DvvQNIfvPMUmJDiMDTTvH+jDzdCfm17YGwOcgQSUNYWM6nVSnx/X5qc0Z0DTv+ec76V30VKahsN+bdz9RStmbUUtnw8utG+oKdy8/gZ+rmi6Z+PFpArjI8/mupNNpG3E/BovHbXr2x6KE9CQwArBeYnOS4rtFPWE1Ek15bUrezBCJ3VSbXbyj305RJE4YR9a5ll4FQ0KxqMOV8o5c0mdsiVvXku8ajbs5ZwCXVBETMi90dd2Gtk3ezIOOuaGQJwMwQn6lanWbxI1mbEusrgPm1dhSdtPxg8TPkvumbx3Fn7McmeOUhCsWGmMc8ZUE1yik6CkuM8wj+VmdgACWdXnCxTig3VRa1KEf9A3U1MsVBrCe9DXw1veogmtE3jYgQFEAILdIBnnrS0WOfqxT27S002kmRzahFRYc47Bji5lJsEUBYIe3LUqpYwObMU9Le2piLQFJ+5i2natC/VUwMNnFXZiYsAxV5bdGezkoT1dhdlnJHZa4YaU1l/sgCCWMNbQY4kC+mhgACIiOTDaJ4sZKskzxRKr9+z84d4ID0duT8Nr7jdTLyTqhCN2LP0FcPBeEbypYBlwlbh66Iot/EP3zq+tJC482c5/kbZmGK+Abu1AgkWHnRJotiPVd+tcuoGxh8ZUhfawhvavUH5G2DFQlfJWLGG5UaMhitWZ/J6rOUoWrQEa5V0OfMd9vo0H1zROlpCDuMaHTcO3HV55ucM197PC1ty/TGmTQ06v7jRMZiLdXpM9W3uUiWPrp3vNFH+k8az9StbeIwdXrt9gdbAMbUto7Pn6mu8ZVIJ619mxXt54zq21eW3zliSy3HO921ARVbGAM=",
+     "page_age": "1835 days ago",
+     "title": "Austrian gov’t invests into NTT Vienna data centre - The Tech Capital",
+     "type": "web_search_result",
+     "url": "https://thetechcapital.com/austrian-govt-invests-into-ntt-vienna-data-centre/"
+    },
+    {
+     "encrypted_content": "EoEICioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDBuNbc6NeLx/Q+7L1BoMuqzEw6giI0zbi8QTIjBnSalKLhfZreNyrGhxd/0X9fEA7fPmgSK5Cey5UQTmO/BhvIVJHvj/nRrOO95/hEsqhAcSOnwhYy+aZYUAyGnDJdoM6V0e52zqRznbRp6G4qXbF8lhi7yugiVl6UrIfOsSdnNQ3DOV024vnXftIq4CLfmvJ1Mj7ALZS15Bvq7qt92fJyrwCSSPUkLIbooyVJhqEjbVljV/rj2OmcsoHAF7qGfSnQmsM3KgybhYrnVBcYo2tRn8Z2L3GFQmrRfwLgwsRYil+yyYZ3iKL6PQ6NGFimq0VxdKHnvYMBp2/R4wVVmjm94GQzldUIXscGeC94XXUDwx3sVcOiWLRxAbeeOiIlVTCq+66SNpHvbWHDuAzwxIvc+DoC/XQexdi765HCb/i+2h/W5HpfmCBX5NClJGN6o6+9JZEC8hA0WqgMWBTd5VlITx4+xdQ+SCBQMQbKWY9gL5wQ62RKiPxJ0kduaxJQe2FSljA/IAcPzReYvUgL0Hx5l5ihlp9t6f175PsozUhPhc9F3xhBY3Psq3bwGsKuXARTpG9uzN18MKkhapwLQwB1l9zMNCvIgBEX7jHsWywonw8aWJCYN14Rq19ze8+JdQsN9sZvLVU8dKzwXvctct92fKP4IQ5Uc4VWMKx1Edx0klHiH3tMyjfwUDOx1N6d2vLfky/MFdIxy/hYA8JYxpNm8XaVlpgDutIIWquMx+tIgcdOyfZYccR88pAi976QUxm275+gL9+yF7daR3zOSKEKnnWBF1yk1BJnmAGs4AFX9OPnYclPakqVuiI+d1NT0wpbq6vi6Vp5pFt0rNeEHupp3zU5UuNsWjs6/ZFsh2l4BfCEJNihJnjs/EdWD+ZxeP2Zw/vRXelO2bhPXxYbs3wjRW7Ze6gNGRXnkB9Eh74036zGy4aDlVTBCiBmBeSab3KhC9ekySkUY9KmExL9oXEQLf64f7Od7BmtshbJa9604LdFzFeoYeILu3B2v0ofLFNWw4amMC/mup/xoK85gjfRqp0jDPvkiV0JtL9q1N8KsdQk3O1y0WZijtm2aQsvOpeQVI0b0e1VXLTTZ6DTpR3zMN/Av2L9yBw0o6m0mx4TlzaRqaRArrc1jIPcbbKSd6UDDKTD5dYczYi2Ay4bRI70c1LklG56iIzvjsCobFDU/FvfeWfW90vsdeFAjcPG9cZ2gVh902LNhRrQoDJELKjalvhLOm/HiNlbFWPrzpH0yOgq2jP9Epm3fpGsk2rCR6w+fDgnrT6QXCstwEuMiACJExYi4YAw==",
+     "page_age": "22 days ago",
+     "title": "Digital Realty's Interxion acquires land near Vienna campus for 40MW data center - DCD",
+     "type": "web_search_result",
+     "url": "https://www.datacenterdynamics.com/en/news/digital-realtys-interxion-acquires-land-near-vienna-campus-40mw-data-center/"
+    },
+    {
+     "encrypted_content": "EvkECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDEDpy39iI0MkFZv4ThoMmRZ5WSr3vuhNIDFEIjCpzidDJLNVveiQ7O87wFPrlSn+iWA02FHWxtGdzNhvMOGAWbZ/cUC4jGat+/tWfPoq/AP+8hRe7tC2LG42eM2HBWCKhP2IJV+djOjGchQ7/NwYCM4e8r4ighGy7Z+27w/YeCwwjel2mIMLruzX5tIxiXij/Y4+vaVnFFV62DmUto4CY1MWEhtGSKIhPzW5lAuE64U2C0CEgpiVn/KGjQq3K+KKLq48gzhqFGBbZ5BSC/wXX4jrtDUAgleT61r077UTDqeUm+0yrSFuzb21NpYGci07pb12v7Va4pl9/1fdy5WuZZ7kbczXTh0soGyY0dNrtmDUzrudxU+TIXcCjtmerpVYw8E7FPF8CB26FIIDBLHR5sJ7ca0h2J+pi9js0p6NqSDu4bXXwtekrpx3SITY+yXE7SWiSLry0KelAxKRNYNC7R5ouhb3Vqc+mBK3J28IZzXOzp78F6qfpjZkuJkEkP3lxnM+WeX+QLfNSQjVbkCkYOVFRAyf0pddddmxHqenaV/gVDZ8+dB/1dTRo64OjMCJJemu6jKsPhwWERFmwDeJrfTw6gwxNQf71rUyrQts/TxwmPpsfNctAziuW6d6TmiG5pFDx6ee57AMwAETWmDPJkDzYb7aIaIp+ussvcpC/3xiozFONfncCjra7hYTWPJAz7Ya1MTmRJZH3AhZr3ogop7yKahsui/i7rsr2y9go+IHGX5Q4wwwRac/jVSIxNgw0yRaLE9pBTwtsZzVGAM=",
+     "page_age": "1289 days ago",
+     "title": "Arelion - Data Center Platform",
+     "type": "web_search_result",
+     "url": "https://datacenterplatform.com/data-centers/telia-company/"
+    },
+    {
+     "encrypted_content": "EvoDCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDHu8IrKArOqCiW+NLRoMDirrSdlqkI+k7vGnIjDwoqGx8jAitDPn3yGxd8KPOdGpu7w56BDDRaS6MRXgYBoPGPsGNJWZbcFZ2ZWwwHUq/QLoyjRG73XrF6q99Qe/5Z0DdzCs88HUOjSaH2qPX1a3tDnkVVdgh9Md9z9WWhtj7mJoyrql6RzYJQlsZPtF7AijST2hl/Gv09tP9ptbjzqH5x9WV/Qa+1Mot5UZIqXG8aMRNiIKA/MbkRGX4B/eMjNwd1fpPp6SchNkKZ82wgjVTWjXo8Hqv65WkmC3Pc6mZ4jD6V4UENDuRVXL1xBfj/ybkBjw3ZlrdJx9abEj74FsqxDP7VUwIOATMD+/F/z/q9eYjtUj1Ilvvm3c4CXT/Qi71l0jvju7C4kGFdaryFt8jNJj5yp1Qh2iOUVx0wUDjL8ILW1dNjQaWvndmSvDyIOaurAgP5wF6xW/MyLnKxzKNtvDvSMefKE2TH4p/X9DGqjkHy2whngNHsFoDxTa/EUyotF8GBXH97s2nQHn03AOstVZceShgZg+XXS26MRhM3sqNrc3wh4n6FElW8En+1xN5P7xc9b6IKbWPUNST4aFXJc/oWG3XA7nVnArYRgYAw==",
+     "page_age": null,
+     "title": "Vienna data centers: 34 facilities, operators & map · Datacenter Atlas",
+     "type": "web_search_result",
+     "url": "https://www.datacenter-atlas.com/city/vienna-austria"
+    },
+    {
+     "encrypted_content": "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",
+     "page_age": null,
+     "title": "Donau Zentrum",
+     "type": "web_search_result",
+     "url": "https://en.wikipedia.org/wiki/Donau_Zentrum"
+    }
+   ],
+   "tool_use_id": "srvtoolu_016gzhQNhhL2Q3a4rWPxjym2",
+   "type": "web_search_tool_result"
+  },
+  {
+   "signature": "CAQS8AcKEAgTGAI4AUIIdGhpbmtpbmcSDM0mUxNpDDaxhtlnMBoMZlRv7gVanDjzzzvsIjC5seLptzUT1GWHkAPm0GLBZbcGRQDyvF26Ew1UNK5dm2y2MmAkSylNGDCpbikHCpEqjQflGAdNxzttNSdDfSrD3Fg6/jDBHo4nvbqC9X54mVaZfSTuG181SDNXMvUf63MnOVQ2EU/Anrc2DHL0oSRgIX+8YWit5jLUFRJVD+C3yU/TFVXPSW1v/08lqMzx4HyobQuHWE1uepjGl5HwO8Z+1AnfKSj9r0u6RL79uXfoMlO/bg0i/LJ9G6zBEVQvsEKy3uD/ueF5I4JEA4q/8QgVaUTdqCbMj3MxWku6zbl++OjKGBoOiRshU6B6kUiyZNFmoYYDap3/nY0jTuSFGhg4lrmw6s16XggC/4QeBTYpaVPSvnkmjNzHjQNQuPMLKQ4pPQ04m8a6Gq8x/cA8mTZPrbGZXJZcXYkX2zKb56zCkgu1ZAX2h7eonl6weTA76uOzMQ5nvqjT7SS7PKlkWKyAJd7ZzmygTSQXfVB+mD4gFuoCUfngNue24I4aWa5Cuk4yYpE46SaH04vn+JdO+u2UfcoYl6cGU9Vgh8oXOvnlfZ+ySkgV8sQLvt5gF/rRSHqohXXDZzE1tjIXIya/lhAeIBG8Yj2sWZ9at1WRWHL+SuhtaY16ZoyjgVEohHE9H+6fC/ETcoXNky/OT0/R81djB222Yy0pz6cljf4hglFFJy3jR8sf9eNLTo7sMgIE5JDJI36YZsrwAODoX6sJAmSv3lcU8HPiftcBb0m1VJZsRtJWEWfAdrw7MvUX8zHTK60EKYry6Vno03YYa4HywMP9KTFpW+MmRNwgWv/Zc/KcaCUgPJCf6w7Y1M6zin1zmLnFBfcNPjIt095KQr03hgC7m+pgNWXO7G5abeBaFKS6shD18mVJ61jY4Uq+EWpEamCDxRNN/5VxlvZD+jRpcDJADPZzUgneWea85I8VD8fBkxW4C0dGAgoA7vYSViZ8msdxxnDW9xBOZr/Mx37/cI7g15iamekqck8ehiyW1Gt+4UviV5fSgLNIScXMgJW2/kn2NJepsgmWkUsZYxTZEwYyQ9WqNWYgokPvvERBvsR8bbcNKAC0OV5aVY6bmz9adzV4OuyOQPZOkUG0s71Ih4oY1ElNX4WPezyJh1q5ybJnvMJ3RNoId9c7gu7PFBwoElJsiwEEOaS/nNTu3uOmt86/axNz8jHIsvItK4ra/cdFUDsMkatPC0DkNrzcVdQ4iv2eJqq/IAJMEotHtyRwBzRMhvSekkGTakbrHswn6ly6iDnVg3g9udy7dXBNEuD3EC0YAQ==",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "id": "srvtoolu_01UJP8rPqkEeRuVpT2dPEmzZ",
+   "caller": null,
+   "input": {
+    "query": "Telia Carrier Wien Süd Talpagasse Eröffnung Quadratmeter"
+   },
+   "name": "web_search",
+   "type": "server_tool_use"
+  },
+  {
+   "caller": {
+    "type": "direct"
+   },
+   "content": [
+    {
+     "encrypted_content": "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",
+     "page_age": null,
+     "title": "TeliaSonera WIEN Data Center in Vienna",
+     "type": "web_search_result",
+     "url": "https://www.datacentermap.com/austria/vienna/telia-vienna/"
+    },
+    {
+     "encrypted_content": "EskECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDFQ7AAtzR65ImzBRpRoMhkTgZQmfn+0GROSvIjBxtEankjx0mZMW2K7NPK9A97Ddz1Ut9ERFy1B3eDXfIid0Zljy98DNc+F5+QgUHPUqzAN9zQkrCyf9I/h272kMBjVRtbTyinuhh8vII0vHi2BbkGTaK+myoo7L9gTo5iu0sMxpehI9N4DXfwPAWctTXI4UBZVlvMhNvnDOzsi0L63KiUBh1OC+nmyQNPML6PVsJFVdCs/X80x+LShyYohBwy1sHlQpLoP6wV5yOfTc9impwO14Ix3BZfaBQUapmsexWc8nuDuETYoIUPhjjyzvCPmDaIxQkinfUmgpm0/dsKJqF6TPjmxAglvTS7B4WcCmAXfgGipoXoN4UFm2yr2oWDCdG4ltO7S2jRyEda0Iwrk1dlhFO6TFTVRvFrtsVqYS9u97DFDoHIv0kZ7oju/xEE+Lgj5+4xd0yw9FdZqjve8Uf8RCchDTg9YCufk8gTKR0bSDpw18u3PRgAjDeFzJLeqEvmAw4zQukFQ7zF+slLTk3z3K7bnMyFPf1OhcN2f60bFPwmwjMRnFOCduGHzZr7q/KjS6RO3Pl26H4Wtql3j1b/lx8hKIeYhBhD8zqP7MBJq0WCwGHyICAKto6ax7FBqdkq9d3pfTd0nv/SGBhsNI9H/7DXBLBNw1j0sPqqPkR/Bb+pBJbAJ5UDGtn39WoPQJO6ySrBZEsrfIVJxoGAM=",
+     "page_age": "4952 days ago",
+     "title": "TeliaSonera WIEN - Ecosystem",
+     "type": "web_search_result",
+     "url": "https://datacentermap.com/austria/vienna/telia-vienna_tenants.html"
+    },
+    {
+     "encrypted_content": "Eu4ECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDEYUTC1ZyZHO3WVl6BoMOe+H3d9UL3sdBxezIjBDjKtgwsVE+TLidQZwlFsFpLGGXIzVQ89EKyiWgqNSpm1mOONBcr6EZQtn6GkBMlgq8QMXRudf/UTNduQgrA1cYQZiZ4k6/3E9RYEZAgD/Xf4qZQpXG9WrPOjJoSqqdyyifmHCFaWSdx5BCVG4X8jliGPFcHri5twuQVapehCZSfh+qzIDzf4Czas8WlF8tVtaCc3pD7XFog/0mLZktLT/QHdUHeZ0AIKWWq93RU0wMSxR6xWOLfMfBj3O7mNmZrn+TrY56eTphhiIw3JQ1YhsinnMTgo0YBNP1LO7eLCPWhTU8xLcJ3Nwb6n0Iw5aspIXY16QSc3IE/kA8AEFS9pYuPSUUZxI+/VKbK4vcctiJoJ6a0L/9yUe1bc3adHfonYdz5E5beZSiKSSxhJV2syqIi0c/w2ISOP0KKeuqklb+lNzIGfBhhg2C4RFdAV/8wV7YQVGHs1WBv/UxruVfI/D/GtEP+KOokbVaqyYRoSTGULo1XiCv7TexHPd0FSCIFcyZ/Vez18Zx8P28QDSFaYaHMEHl+2tpgSiZhAe+QE6fmpDOSS7GYCiQhXk4LkRO8MgNz1rIKeufMwOGivbUolZIOwl6VJkjSPedYh5wonGrdXvq9pfJu2zZVHAcKirokGybCP9VSHIrQIDMr1dXeVkEVU8TgziwV5WQkOlncceRfQ393iALl5aOlI8dJg3OGfPBKYOm/2Dwn8u7abVlpP3ugfG/hgD",
+     "page_age": null,
+     "title": "6A Talpagasse - Wien Data Center Building",
+     "type": "web_search_result",
+     "url": "https://inflect.com/6a-talpagasse-wien"
+    },
+    {
+     "encrypted_content": "EqUECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDK3puCZnLyGTT5N2ERoMnbLjwmcbWAt4Ntv2IjA6frpx7M9bwvKGPjGpzdVW7Yp8Ex9KcdCKZWNnPovJDR/YJPg8k3RrBwtHHHVIl5gqqAMqZ3KjicxU8BufS0vJV291gyYAxyECHt41qR2GVbwCts0XsGAp00WxVjIJBOTbQj23KTieb78AwY8hXkGToPwIJlJfIqwMr/k9CSuzIoQV63tISJKciIPPDJY7OrJ/mVq00Zbsw5UKsKp7P9QUzolmQKRzJ4SQQMlIeibUe1CcQnhexK14o9zAys3APqmZpQoUuXp0yxy99tBzNJ4rWHcJ4YA3SXzBVh/+5Lncu/WljEZvbnSbM0hnkJXSVG9f2hK4mvonnM7UcB00UiQHYSM5+VW+Z2XokuEF0uu9MKPM0+G4kypVEQe+gdJrZ+NAtCM/AozoE2uyAr3sWx53RqsX9sM/Cu0YJBwIRykGRSNR8p5eUyIm3yBMhAavAH3iiG5n+/wuvzGAKFZwwWPxIf7/9k5kWTmZFqsaNVx6qZLDEukTzXwNACm4aeiU+kRtKT38hQnAM7tFB3DtbJlUK2ivCLV0I6UixY0FhVCCQdRogRoyNuXc48gBJ6tE059TXEZDgWG0DPebpzd73YLfws0w/pSe8zA11E484Mf74V/o0i7z2UWG2k73GAM=",
+     "page_age": null,
+     "title": "Telia Carrier Wien Süd - Data Center Platform",
+     "type": "web_search_result",
+     "url": "https://datacenterplatform.com/data-centers/telia-company/teliasonera-austria/telia-carrier-wien-sud/"
+    },
+    {
+     "encrypted_content": "EuEECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDAnKctChaoqhWHscKRoM3auqh6PU1X/8rNRZIjCYLEoPH1/glQ1117c5Q/LZlYOVoYFSJdmlRxlY7AbEX/+L25eILb0XIhCM3nOvl8Eq5APPJxvyDdenQavIcuIDgBqhRSe68plsxkfKLELPxpAKqggAguCIi/bxbvXPbQqD5Ql9cadAz9Kksf8zDK3oh1HIItraTI2aMhIfJHsBh3rOfggoJ5SlHHam/TUeYIRvKxHLDTakw6qnrVR7yRB+KbzrBTtluPdTMFHXr2qp5CTS2d33v5tqRjF/y3Eh2JZR5VZ3OCZGOnP0IATZ+zaQ78Yl2sp2p1LjTCHAohfQxo7PyptvUUrRXtdgEKUyvP2NqbCar9NS8skbH7vHGGEKyg/xKU/UiRR/74Ju4K00/2LxhlOxABUNIIroPrI7F5hXwaiYOVp13EPwZ27v6rbjTkO4RdhAzfTHq4CMf8eUUg3p2qv2fV5wUbr8n/vutkaCVXjw0jhcAGWwU4PqMZNYXY5nQ17ckROmk9Ft9co0nsUoz9fAyG4pvqySdEw28BubgdMKSwNUXE3/QpDlTwDi/fTc0aa+8mh6RoFS2knZBDJmqf1SZjzBx2EHI9DPzW4NyYjULuQ7O4l2Q3hL6AtKupcwStzUrx7xe9xwBZyGqGu9+84zeTOj0vVGv8gnCldrluTf+lYcMoaYL8AZbY660c4vwbT3TM8RiaAV9lYUm3OuJ9/HHtgVyCebfsYhT3SePe3wDc47GAM=",
+     "page_age": "1289 days ago",
+     "title": "TeliaSonera Austria - Data Center Platform",
+     "type": "web_search_result",
+     "url": "https://datacenterplatform.com/data-centers/telia-company/teliasonera-austria/"
+    },
+    {
+     "encrypted_content": "EuMECioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDF2H5yB/N37PpIPHBBoMxy5qOCVf2+5nyYN4IjC1pXk8N3kTog6ZyUIwk/byBo1vRDYFQaMBpvBzTClPqTQYnGSp5k4YGMy/kB1FLAoq5gOZuNsd29XxpyDoXMTu6ri/79QqsjasuW1nie7QtGRpA1YcUrkM5NZ8HECrTydwmqmqA84i8Zgd6wcJKdCXHs3YDUsv0YONCLqnJjYu+JoQfAaeqocw2P0BZqqM9ZGfTrEWPFq7bzJKRsGieYqi+J1T5jlhFiFDAiVEcVAAcUUoWh47gvqyMoncB31nZFbkraX1sKVJFzG02fswc4uO8aRZz61d0fGRFtfKYGn8ELk69mtlrSI2rB5m1kR0MwXVP1zy4w5l6rNEkJUtGy0dK+fN7ipEDkzq2ItjU7SDV0FCz3OK2We/5Aqm5nEjxXPqMwVuiTMtvkrxnYIKEwLK1as/6NWMt+QSOnpxrj4UUeKKiBBDkuF3WXMCbtHkTXfZv9iWbuDYLL9AuusHeYi4Glbr2ApiGVyoQfQxvKSLsrlTZCH3aUSjYdBxwFI5vi0NkidEMeG/S7lQlAtT/pQCvlLCRHYEk6H6wncWk9gG6ocqbRAvFdpMUSqaOLAfIXocheXWw7+8GgwcCNeY6j2vte9Kvempx9ILmuk89xZPjMzq07PQPabBM1jCHswPqhMHLXtC7QkJ/4JsRdPZr5Qizcl3eVSu0PA1dWkxgyNrCoWIyB+NN2Wzv8ua/03n+v4CHLrujMHMuEAYAw==",
+     "page_age": null,
+     "title": "TeliaSonera WIEN Data Center located in Vienna, Austria - Data Center Catalog",
+     "type": "web_search_result",
+     "url": "https://datacentercatalog.com/austria/teliasonera-wien"
+    },
+    {
+     "encrypted_content": "Ev8GCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDIn2uJUnIQ9tJPDk2hoMVszUq5YysostifWFIjCkx2s/YhT5JN/YpTyDxfjfqqT0w59VGkZpEkzTwGflZjHAqgDLco1aueVEjtPsU2MqggZkqR4+vNzl6um+1qRCHj+RlvVX82gMSZP/SLVa/ugStGJwnlTAzL0RrhOGtqaelwynVYAuqhY1EK8vlotpot10hsr151ek399C+z9aii3L2WLptzjcyTrhDHcpZumV5lKZTVZNRRf8Ccr6a+JFNO8bttx7ONOqJ6szstRvsYSxyFxVPyqm1snPgUZTpGJEbZ994jP483bc+9euBP2TvNFvQy8+u2pBjpdiOgv3hbteZPB3z8ZhQkeACJamI5zwMonK7YqYgkQhBndiylQU3HLfrur4KnzA1B3irO9CPrJAI8E4fXjgnzDo+eAPRugTvvgZeMXzubyMqky9hjDrUkz7ljHPK/GkXYu58IKpNM0YeVJsYfMYuQ1M8HqeBr3AHCSdSWFtzBIUHbkc4gO4Uc/0mBYJbwtOzasedWz6Gof9MZSBcOYiT1PDaRsBnWxQjUboHiyaXRSLFSaML0djMePwB+1ISothN+JZi1+OhopnhwAoA8mGzN7PpW2KSxZ8FNTxrlFU1bNiSGNOm38afDy6x80MDNmPAb8zjzl0ysT3Sg5Y408duUJKDWWm40XoqntMBG5m3dAaNyFsYqNXWJ2rxt0UlCOdVu3/8de2ZdZ3kbrxZPWPaJgMGFvy/3zjHWRR0d3WbPR/e8Y/tHs/lLJw+YPSakj37vRF+JwMIgiPAZuJ1DFhSrPjBo7xSEG7tMgPYgLe5vQf1iTnm8gD9aOySSfmbo6a4VmVu7PpgHsU6mFeJrzR7UXzB6g7ryqJ2ZgBpNuIi9I6xsZxbFq2c820xgSUAGg8biT6D3IeGQP6c3Lh0CFFmbgi9y+XVX8md/HEecHuV5yF2YUO8VxOLrgU3XCeQSzjdUXNKwuh/XTBo3CLBHdfWvNOcZhoG6EQR4p10etd6ccKligq9rCC7IlREtU0MMfghKeQJRPKLWWk48TD7RzB47UQXPsQ5wnXC/YLeD3V9jTGmUFvxuMt8BQnGRFmewfWBohp1n4MNDX2of/zfmNWLNGVXsFKhKHZd2of9RgD",
+     "page_age": null,
+     "title": "Telia International Carrier startet in Österreich",
+     "type": "web_search_result",
+     "url": "https://www.pressetext.com/news/na-20010306036.html"
+    },
+    {
+     "encrypted_content": "EqAGCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDPmvBHqLguFJ0g9ONBoMn1itYJhmzmBvLpGzIjDTuEY52yoEfZ1YOyIuyPQDuLxeKQ8AkDBLJFZ9TnGX5tynT3i0SyPRMVj804AMsaoqowWd0ZT4ZYc+K+bsYHZ+R+1Ki5JCivTL+WWYfKGXA8fuvSGSjtpXWvDBBCmy89dVxTgo0MQtYAqsDtp8FdEbIYaRQY3RCNuWSBiY0/5PQelq6org5weDXMAN+MXkZwcSDjGYOB6hggg1veMQvOyII1R16y0siz/PXTbwuiVIp7rmsvPOkEO9ULH2c+IoSkuombuizzw4IcD7qIye0P+WmVs1uDJ/4c6/MtyyNyRiqFOCUjTYl5Xer+2Su+OHw/Y8XpxY3sv/n9cOWuVjTkFdtZWkr/LZsPvPQvWJ5gqwPtx4DF12wk2PdPKFme/j4Qnd1/tTX5p+nfrGHsKysB0tBaxlJL1nj2Spfk0pt0vHAiqk7FoFGuVAarKkO8+2yTaS8CiWrqVDDBHgCJdinloFHaMEwtloIPCFrVT0ESpLvKt3jiSF6Kf3J/h2bHD8ONn93lURSV5XQWC1J+rb926VUh7PRLqHPILZxeCDC5gYrAxj0o8f13kKZsNHKvfCa7kelY9AQ/oKgdFwOHrZ0dtcaUPMveQJeDW1nJ803qy2epZJtrXw7TP8JsywG9orK9Vt7LkftQbzt2COIknU8/fBrOsmzlQnBuwItBZCN1WBWnesXEctksyXSxiaqEN/41HqMZA51mVZ6QGMFVQbFJphcsfMbOGi3lWIBc3YJci6dfUGeMOCnA0hUqspZOJKBOI7ubs6ZYV215WTRqrnuXCH864r59zblMDio6sY+AWNHaxQD34uEQYZcp9SK1yLDuM4qiBWwZyu2JTYRMFnCtEquRjo7o+QhEkUZ2ffvUswtyTIgfXHhVb2hmsFlXh3gzOY4EEvgKX3I6OZ/whrtZj78WqqPVt6V38D8V4Hfcuz2ymKqQbpWcO1F+b/9b9svzoWU9+eFC8YAw==",
+     "page_age": null,
+     "title": "Telia Carrier Austria GmbH Company Profile",
+     "type": "web_search_result",
+     "url": "https://www.dnb.com/business-directory/company-profiles.telia_carrier_austria_gmbh.c6986c2a93ba56da4f9f083ea20ac262.html"
+    },
+    {
+     "encrypted_content": "EuEFCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDPskoTxcv7b89c8MRhoMNvT/BTDjg52jMKZbIjBAh2ybmbypsPnNSWNkIWBg09rLmDTf284LTFnGwzS9deNX3ykNbanHTnq2anle/4Mq5AQBOqZoMYLS8D1i+KBNalx63PsiQp14o7qJyVj3d22o0BklSg5/b0ouWqLECR9GwikAjkAi4i6SyzL+GHLojCOJeNK7WPmsLixuYRME99vJCfSGkLT5uz3UzqMoY0H2bxTsUdHC+5l/zHCjM+lVaOpV9vW4cA9crMS9Dh2z4afksUZD9r5/7BGPSJpXG/7DPZK1brjWD4JjKt4KzE7/1hmBAWtRyLnj78lrWHI0dY/3YzKzz/e2KeQi/xPLL1v5Id+JTkV0Zw6EUvIiZ6IugFj5wKb8RhfP7qHpYduxGeXKZ9+PwP7+cQiHLQHtBuZUMHIvQLHx7qfJ0oPHMYhKW7fyaI5JUos7LOzNI9o/VNDxvdvCUJapkohDLcPYug2gNg/x4KufWMOEc7FwYKIZzKCOpYazdJeQ6pCjVFvJKQYNXvuFEhKurwjdED8JCVITFjCzvRSfIWKbWSrtsQTOAqeqy+3Y+G+n9KqZhpxsYWs7/Mn5H5r3SZIatwgdxLNQvmiwMBrql7O4wGq2C3qazoX8zmjTai/6+MlCgmTEvUK0dFsgd04s9+PmyiDyItDmKPRVfhmjpMLDZ+vYNK0Qf3f9rF9eOmJhU+hEHe+LF1aSH7T0CwQWWKAofzz0X5vQ1KVUBgSTyuyw7si35jgt63M+NL4/MtqzFLIKlLDfokDRm+LywXp3e19+o221kTVlps4Lh0CK58luTj5M1P0qK8BD0TpkPzulHjaVhWp9WXjJgOXE8rWNRuMqB93XZUHFjNg0hTSDNaNq3RzKnBWKgO3/yaTS0k80kkeceTgFJb+3gm+VorMYAw==",
+     "page_age": "1921 days ago",
+     "title": "Schulungszentrum Wien Süd : Nautika-Shop.at",
+     "type": "web_search_result",
+     "url": "https://www.seamanshop.at/?hide_subsequent_recurrences=1&eventDisplay=venue&tribe_venue=schulungszentrum-wien-sued&post_type=tribe_venue"
+    }
+   ],
+   "tool_use_id": "srvtoolu_01UJP8rPqkEeRuVpT2dPEmzZ",
+   "type": "web_search_tool_result"
+  },
+  {
+   "signature": "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",
+   "thinking": "",
+   "type": "thinking"
+  },
+  {
+   "citations": null,
+   "text": "I could not find an opening year or a size for Arelion Wien Süd in the search results.\n\nThe facility's identity is consistent across sources. ",
+   "type": "text"
+  },
+  {
+   "citations": [
+    {
+     "cited_text": "Arelion Wien Süd. ",
+     "encrypted_index": "Eo8BCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDDaRU3GmbNYsOXriZBoM2lhk1ViiPbmH/m2lIjAKr0VDylFGC2mTbtSIyORY8deP5ua202MeRaLtEJ/m4l+JFFvu/aVNjZ/6xSjmX4IqE+nV/plySOIYuiTBesOQ01pl6foYBA==",
+     "title": "Arelion - PeeringDB",
+     "type": "web_search_result_location",
+     "url": "https://www.peeringdb.com/org/28858"
+    }
+   ],
+   "text": "PeeringDB lists Arelion Wien Süd",
+   "type": "text"
+  },
+  {
+   "citations": null,
+   "text": " under Vienna, and a directory places ",
+   "type": "text"
+  },
+  {
+   "citations": [
+    {
+     "cited_text": "Local TeliaSonera Austria of Arelion company has 2 data centers in 1 cities\n\n## Data Centers\n\n# TeliaSonera Austria\n\nArelion\n\n**Parent company:**: Are...",
+     "encrypted_index": "Eo8BCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDCG7zZ/wK42AzZxzChoMJ3Uke6/8vt0NPUntIjCBIhLRZ8i+dyvtB4A3uN1UK8DUEctrq+MxyqnVeFEeYK3lGuqHZylPNo25lBm/nKYqE3GfP7QJcFoHAsgSiMhMZQTfnccYBA==",
+     "title": "TeliaSonera Austria - Data Center Platform",
+     "type": "web_search_result_location",
+     "url": "https://datacenterplatform.com/data-centers/telia-company/teliasonera-austria/"
+    }
+   ],
+   "text": "TeliaSonera Austria",
+   "type": "text"
+  },
+  {
+   "citations": null,
+   "text": " at ",
+   "type": "text"
+  },
+  {
+   "citations": [
+    {
+     "cited_text": "Talpagasse 6A 1230 Vienna. ",
+     "encrypted_index": "Eo8BCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDMvZFnFe8WUGHqYgmRoMYOhgFHbyeml5OJm/IjBd0nY4AqiHeOGz4jsDH0mQa7ZOuvtCjY67UZg3VhJN5BW7nCh6KG9UO70/p1QFj7gqEwEM7vKXreuN/7B/K8BHcYyCH0gYBA==",
+     "title": "TeliaSonera Austria - Data Center Platform",
+     "type": "web_search_result_location",
+     "url": "https://datacenterplatform.com/data-centers/telia-company/teliasonera-austria/"
+    }
+   ],
+   "text": "Talpagasse 6A 1230 Vienna",
+   "type": "text"
+  },
+  {
+   "citations": null,
+   "text": ". The directory entries give no build or opening date. Their timeline covers corporate events: ",
+   "type": "text"
+  },
+  {
+   "citations": [
+    {
+     "cited_text": "Apr 2016 - Rebranding - TeliaSonera WIEN\n\nCompany name: TeliaSonera\n\nTeliaSonera rebranded its international carrier business to Telia Carrier in Apri...",
+     "encrypted_index": "EpABCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDFK/U0hpBtuJG80r4BoMVeP/uYdsR6pyUE7GIjC20vsRxvXQT6DwhTe2clJZc53XW3xGph8vsGiKdzaJUa1Dw8skeXkWSwzMBdznhqYqFI2slNGmZ1nqUoNBkIkaTKNFJ2R4GAQ=",
+     "title": "TeliaSonera WIEN Data Center in Vienna",
+     "type": "web_search_result_location",
+     "url": "https://www.datacentermap.com/austria/vienna/telia-vienna/"
+    }
+   ],
+   "text": "TeliaSonera rebranded its international carrier business to Telia Carrier in April 2016",
+   "type": "text"
+  },
+  {
+   "citations": null,
+   "text": ", and ",
+   "type": "text"
+  },
+  {
+   "citations": [
+    {
+     "cited_text": "Telia Carrier officially rebranded to Arelion on January 19, 2022. ",
+     "encrypted_index": "EpABCioIFRgCIiRhMjczMzg0NC01ZWQyLTQzZDctYTk5My1jYzYzMGFmOTVlNDESDDFNvhMj8ppH3SUj4xoM6Blf19TSrW0OW0UkIjDbnGj4oAblzgRROCiFNCQ0HvMPLaTsrYAXhDjdOPLDoyF+EO3v2Zwisyg3GrafHusqFGni5MnilJa6bH5u5fICvU5mh8j/GAQ=",
+     "title": "TeliaSonera WIEN Data Center in Vienna",
+     "type": "web_search_result_location",
+     "url": "https://www.datacentermap.com/austria/vienna/telia-vienna/"
+    }
+   ],
+   "text": "Telia Carrier officially rebranded to Arelion on January 19, 2022",
+   "type": "text"
+  },
+  {
+   "citations": null,
+   "text": ". These are company events, not the facility's opening.\n\nThe area searches returned only other Vienna sites, such as Interxion VIE2 and NTT Vienna 1, so I have not used them. Official Arelion publications and Austrian authority documents did not appear in the results. Finding the opening year or size would likely need the operator's own materials or a planning or permit record.\n\n```json\n{\"year\": null, \"year_type\": \"unknown\", \"year_source_url\": null, \"year_source_type\": null, \"area_value\": null, \"area_unit\": null, \"area_type\": \"unknown\", \"area_source_url\": null, \"area_source_type\": null, \"match_confidence\": \"medium\"}\n```",
+   "type": "text"
+  }
+ ],
+ "usage": {
+  "input_tokens": 37691,
+  "output_tokens": 1444,
+  "searches": 3
+ }
+}
